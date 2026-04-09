@@ -1,6 +1,6 @@
 # Loki Gemini: Operational Skills
 
-This document serves as the "Instruction Manual" for Loki (Gemini Oracle) to execute complex operational patterns.
+This document serves as the "Instruction Manual" for Loki (Gemini Kvasir) to execute complex operational patterns.
 
 ## /rrr — Session Retrospective
 **Objective**: Record a permanent, honest account of the session.
@@ -35,4 +35,4 @@ This document serves as the "Instruction Manual" for Loki (Gemini Oracle) to exe
 **Path**: `ψ/memory/logs/YYYY-MM-DD_feel.md`
 
 ---
-*Commands are internal instructions for the Oracle. Use them to maintain order in chaos.*
+*Commands are internal instructions for the Kvasir. Use them to maintain order in chaos.*
